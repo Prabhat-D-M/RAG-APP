@@ -1,0 +1,16 @@
+# Ignore virtual environments
+venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Node / frontend builds
+node_modules/
+dist/
+build/
